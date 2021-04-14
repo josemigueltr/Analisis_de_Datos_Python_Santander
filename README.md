@@ -1,7 +1,7 @@
 ## Análisis de Datos con Python 2020
 
 ### OBJETIVO
-***Repositorio correspondiente al modulo de Análisis de Datos con Python 2020 parte del programa Data_Science_Santander ***
+*** Repositorio correspondiente al modulo de Análisis de Datos con Python 2020 parte del programa Data_Science_Santander ***
 
 ### ORGANIZACIÓN DE MÓDULO
 
